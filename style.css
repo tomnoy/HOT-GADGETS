@@ -43,3 +43,30 @@
     height: 80px;
     line-height: 0px;
 }
+.cete{
+    text-align: center;
+}
+.container hr{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 5px solid orangered;
+    width: 100px;
+    border-radius: 10px;
+}
+.last{
+    border-radius: 5px 10px 5px 50px;
+    box-shadow:5px 5px 20px grey;
+    padding: 50px 40px;
+}
+.last-img{
+    width: 100%;
+}
+.fff{
+    text-align: center;
+    color: indianred;
+}
+.tonmoy{
+    shadow: 10px 10px 50px blue
+    ;
+}
