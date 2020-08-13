@@ -1,0 +1,45 @@
+
+.container{
+    margin-bottom: 70px;
+}
+.buy-now-button{
+   background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    text-align: center;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.img{
+    width: 100%;    
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 5px;
+}
+.hh{
+    text-align: center;
+}
+.see-all{
+    float: right;
+    margin-right: 0;
+    font-size: 14px;
+    color: orange;
+   
+}
+.see{
+    
+    height: 80px;
+    line-height: 0px;
+}
